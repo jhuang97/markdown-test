@@ -34,3 +34,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Later Section
 Hi
+
+Some image
+[sticky notes](images/midjourney_sticky_notes.png)
