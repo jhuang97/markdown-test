@@ -1,8 +1,8 @@
 # markdown-test
 
 ## Links to sections
-[First Section](#first-section)
-[Later Section](#later-section)
+- [First Section](#first-section)
+- [Later Section](#later-section)
 
 ## First Section
 
