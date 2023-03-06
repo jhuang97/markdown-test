@@ -21,8 +21,8 @@ other text
 1. step
 2. another step
 3. third step
-  * note
-  * another note
+   * note
+   * another note
 
 </details>
 
