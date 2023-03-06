@@ -1,7 +1,7 @@
 # markdown-test
 testing
 
-[jump to later section](#Later Section)
+[jump to later section](#later-section)
 
 ## heading
 
