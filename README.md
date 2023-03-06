@@ -1,9 +1,10 @@
 # markdown-test
-testing
 
-[jump to later section](#later-section)
+## Links to sections
+[First Section](#first-section)
+[Later Section](#later-section)
 
-## heading
+## First Section
 
 <details>
   <summary>Table example</summary>
