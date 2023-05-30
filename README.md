@@ -38,3 +38,6 @@ Hi
 Some image
 
 ![sticky notes](images/midjourney_sticky_notes.png)
+
+## Latex test
+$$ s = 2 \mathrm{arcosh}\left( \frac{\cos \frac{\pi}{p} }{\sin \frac{\pi}{q} } \right) $$
